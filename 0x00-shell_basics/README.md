@@ -1,1 +1,0 @@
-Command for printing wd
