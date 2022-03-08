@@ -2,3 +2,5 @@
 ls -lt | head -10
 #!/bin/bash
 ls -lt | head -10
+#!/bin/bash
+sort ls -lt | head
