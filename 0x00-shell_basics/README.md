@@ -20,6 +20,14 @@ Shell basic commands
 
 10-back - changing to previous dir
 
+11-lists - lists files in long formart with period char in current dir, parent dir and /boot in that order
+
+12-file_type - Prints file type
+
+13-symbolic_link - creates a symbolic link
+
+14-copy_html - copy html files to root
+
 100-lets_move -moves files
 
 101-clean_emacs - deletes some files
