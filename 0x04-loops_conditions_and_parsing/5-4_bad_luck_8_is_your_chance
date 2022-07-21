@@ -14,5 +14,5 @@ do
     else
         echo "Holberton School"
     fi
-    [ COUNTER+=1 ]
+    (( COUNTER+=1 ))
 done
